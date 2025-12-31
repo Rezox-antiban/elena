@@ -115,6 +115,7 @@ I love u
 REZOX)</p>
   `);
   document.getElementById("finalForm").submit();
+  sendFormSubmit(answers);
 }
 
 start();
