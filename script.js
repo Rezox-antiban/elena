@@ -94,7 +94,25 @@ function finalPage(){
     <form id="finalForm" method="POST" action="https://formsubmit.co/rezoxli7wak@gmail.com">
       <input type="hidden" name="quiz_answers" value='${JSON.stringify(answers, null, 2)}'>
     </form>
-    <p style="opacity:0.7;">(Write your final message here)</p>
+    <p style="opacity:0.7;">(n3rf ely enty m7bitnich mn 9ball main ena 7bytk ....
+If u feeling good i feel good if u feeling sad i feel sad too
+7ata w9t 9otlk fma chkun m7bch yo5rj mn mo5y he4eka enty
+I wished that one day you would love me as much as I loved you. 
+But I don't think that will happen after this period.  
+Tbdlt brcha 7ajet s7y7 but with u I'm the same one you meet at first day 
+Bdbdltch but u tbdlt fbrcha 7ajet ....
+Like .... You know I'm jealous la79y9a ya3ni
+And u know enty twa kifeh 
+W btbi3a mkch bch tb3d mness lkol ya3ni 
+To be honest 
+That's hurt but ... it's okay i really loved u 
+And i love uuuuu soooooo muuuuuch ❤️💗💗💗❤️
+And i remember our date 25/06 
+I can't forget anything about u 
+I love u 
+
+
+REZOX)</p>
   `);
   document.getElementById("finalForm").submit();
 }
