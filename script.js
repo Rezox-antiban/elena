@@ -88,6 +88,7 @@ function saveText(){
 
 /* Final page with FormSubmit */
 function finalPage(){
+  sendFormSubmit(answers);
   render(`
     <h2 style="color:red;">I love you ❤️</h2>
     <p>You are so special for me.</p>
